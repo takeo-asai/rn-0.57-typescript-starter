@@ -68,7 +68,7 @@ $ yarn tsc --init --pretty --jsx react
 
 ### 3. Then use alias path from any components
 
-```java
+```typescript
 // src/components/index.ts
 import Sample from "./Sample";
 
